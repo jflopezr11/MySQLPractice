@@ -1,3 +1,3 @@
 # MySQLPractice
 
-Really want to become a  MySQL expert- hoping  this practice along with my Leet Code Practice problems will make me ready for the real world. 
+Really want to become a  MySQL expert- Hoping all of the HackerRank problems will be enough. Goal is to be Silver by end of June 2020. 
